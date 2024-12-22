@@ -8,7 +8,7 @@
 ## 1️⃣ pip install -r requirements.txt or pip3 install -r requirements.txt to install the required modules.
 
 ## 2️⃣ Data saved in account.json file:
- [
+**[
 {
 "Email": "email1@gmail.com",
 "Token": "205...."
@@ -17,17 +17,17 @@
 "Email": "email2@gmail.com",
 "Token": "205...."
 }
-]
+]**
 
 ## If you use proxy, add it to proxy.txt , proxy format: http://username:password@ip:port (or any format according to the template provided in the proxy.txt file)
 
 3️⃣ Run the tool with the command:
 
 Windows or Termux: 
- **python main.py**
+ **python main-zain.py**
 
 MacOs or linux:
-**python3 main.py**
+**python3 main-zain.py**
 
 ==========
 ## ⚠️ If you get error 403 when running, it is because the proxy is blocked. You can change the proxy or take a break and then run again.
